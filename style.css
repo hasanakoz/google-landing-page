@@ -1,0 +1,93 @@
+body{
+    /* border: 2px solid black; */
+    height: 100vh;
+    width: 95vw;
+}
+
+.about{
+    float: left;
+    margin: 15px;
+}
+.about:hover{
+    cursor: pointer;
+    
+}
+.store:hover{
+    cursor: pointer;
+}
+
+.store{
+    float: left;
+    margin: 15px 15px 15px 0px;
+}
+
+
+
+.signin{
+    float: right;
+    margin: 15px;
+    margin-left: 0;
+    background-color: rgba(0, 0, 255, 0.574);
+    color: white;
+    border: none;
+    padding: 3px;
+}
+
+.signin:hover{
+    cursor: pointer;
+}
+
+.gmail{
+    float: right;
+    margin: 15px;
+    margin-right: 0;
+}
+.appicon{
+    float: right;
+    margin: 10px;
+}
+
+.images{
+    float: right;
+    margin: 15px;
+    margin-right: 0;
+}
+
+.clear{
+    clear: both;
+}
+
+.main{
+    text-align: center;
+    padding: 50px;
+    margin: 50px;
+}
+
+#search{
+    width: 40%;
+    margin-bottom: 20px;
+}
+
+.language{
+    color: blue;
+}
+
+.language:hover{
+    cursor: pointer;
+}
+
+.form{
+    position: relative;
+    /* border: 2px solid red; */
+    padding: 0;
+}
+.mic{
+    width: 1.4%;
+    border: 1px solid red;
+    position: 
+    float: left;
+}
+
+.magicon{
+    float: right;
+}
